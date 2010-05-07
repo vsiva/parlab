@@ -1,4 +1,16 @@
 13 dwarves
 ==========
 
-Link to [another file](dense.md).
+1. [Dense Linear Algebra](dense.md)
+1. Sparse Linear Algebra
+1. Spectral Methods
+1. N-Body Methods
+1. Structured Grids
+1. Unstructured Grids
+1. MapReduce
+1. Combinational Logic
+1. Graph Traversal
+1. Dynamic Programming
+1. Backtrack and Branch-and-Bound
+1. Graphical Models
+1. Finite State Machines
