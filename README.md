@@ -2,8 +2,8 @@
 ==========
 
 1. [Dense Linear Algebra](dense.md)
-1. Sparse Linear Algebra
-1. Spectral Methods
+1. [Sparse Linear Algebra](sparse.md)
+1. [Spectral Methods](spectral.md)
 1. N-Body Methods
 1. Structured Grids
 1. Unstructured Grids
