@@ -17,8 +17,8 @@
 
 # References
 
-[Berkeley View](http://view.eecs.berkeley.edu)
-[Berkeley Parlab Patterns)(http://parlab.eecs.berkeley.edu/wiki/patterns/patterns)
-[Rodinia](https://www.cs.virginia.edu/~skadron/wiki/rodinia/index.php/Main_Page)
-[Lonestar](http://iss.ices.utexas.edu/lonestar/)
-[Parsec](http://parsec.cs.princeton.edu/)
+ - [Berkeley View](http://view.eecs.berkeley.edu)
+ - [Berkeley Parlab Patterns](http://parlab.eecs.berkeley.edu/wiki/patterns/patterns)
+ - [Rodinia](https://www.cs.virginia.edu/~skadron/wiki/rodinia/index.php/Main_Page)
+ - [Lonestar](http://iss.ices.utexas.edu/lonestar/)
+ - [Parsec](http://parsec.cs.princeton.edu/)
